@@ -1,4 +1,7 @@
 # WindowsGSM.Xonotic
+![GitHub Release](https://img.shields.io/github/v/release/Soulflare3/WindowsGSM.Xonotic)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Soulflare3/WindowsGSM.Xonotic/total)
+
 🧩 WindowsGSM plugin that provides Xonotic Dedicated server support!
 
 ## Requirements
